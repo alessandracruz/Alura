@@ -1,4 +1,4 @@
-## :computer: ***AULAS***
+## :computer: ***PYTHON PARA DATA SCIENCE***
 
 :heavy_check_mark: Função e linguagem de alto nível
 
